@@ -2,11 +2,14 @@
 
 Clone the Repository and install all the dependencies using the command
 
-`npm i`
+```
+npm i
+```
 
 Run the application using the command
 
-`npm start`
+```npm start
+```
 
 Libraries used:
 ```
