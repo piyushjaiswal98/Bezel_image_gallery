@@ -17,3 +17,8 @@ Libraries used:
 react-image-gallery
 react-image-magnifiers
 ```
+
+I have used a random image selection from the internet. The images are stored in the folder
+```
+\src\static
+```
