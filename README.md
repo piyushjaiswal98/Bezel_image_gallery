@@ -8,7 +8,8 @@ npm i
 
 Run the application using the command
 
-```npm start
+```
+npm start
 ```
 
 Libraries used:
